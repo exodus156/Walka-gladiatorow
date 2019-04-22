@@ -1,0 +1,14 @@
+C:\Users\Michał\source\repos\MichalDzialekLab2_ZadDom\MichalDzialekLab2_ZadDom\bin\Debug\MichalDzialekLab2_ZadDom.exe.config
+C:\Users\Michał\source\repos\MichalDzialekLab2_ZadDom\MichalDzialekLab2_ZadDom\bin\Debug\MichalDzialekLab2_ZadDom.exe
+C:\Users\Michał\source\repos\MichalDzialekLab2_ZadDom\MichalDzialekLab2_ZadDom\bin\Debug\MichalDzialekLab2_ZadDom.pdb
+C:\Users\Michał\source\repos\MichalDzialekLab2_ZadDom\MichalDzialekLab2_ZadDom\obj\Debug\MichalDzialekLab2_ZadDom.csprojAssemblyReference.cache
+C:\Users\Michał\source\repos\MichalDzialekLab2_ZadDom\MichalDzialekLab2_ZadDom\obj\Debug\MichalDzialekLab2_ZadDom.PanelGlowny.resources
+C:\Users\Michał\source\repos\MichalDzialekLab2_ZadDom\MichalDzialekLab2_ZadDom\obj\Debug\MichalDzialekLab2_ZadDom.Properties.Resources.resources
+C:\Users\Michał\source\repos\MichalDzialekLab2_ZadDom\MichalDzialekLab2_ZadDom\obj\Debug\MichalDzialekLab2_ZadDom.csproj.GenerateResource.cache
+C:\Users\Michał\source\repos\MichalDzialekLab2_ZadDom\MichalDzialekLab2_ZadDom\obj\Debug\MichalDzialekLab2_ZadDom.csproj.CoreCompileInputs.cache
+C:\Users\Michał\source\repos\MichalDzialekLab2_ZadDom\MichalDzialekLab2_ZadDom\obj\Debug\MichalDzialekLab2_ZadDom.exe
+C:\Users\Michał\source\repos\MichalDzialekLab2_ZadDom\MichalDzialekLab2_ZadDom\obj\Debug\MichalDzialekLab2_ZadDom.pdb
+C:\Users\Michał\source\repos\MichalDzialekLab2_ZadDom\MichalDzialekLab2_ZadDom\obj\Debug\MichalDzialekLab2_ZadDom.HowToPlay.resources
+C:\Users\Michał\source\repos\MichalDzialekLab2_ZadDom\MichalDzialekLab2_ZadDom\obj\Debug\MichalDzialekLab2_ZadDom.Walka.resources
+C:\Users\Michał\source\repos\MichalDzialekLab2_ZadDom\MichalDzialekLab2_ZadDom\obj\Debug\MichalDzialekLab2_ZadDom.GameOver.resources
+C:\Users\Michał\source\repos\MichalDzialekLab2_ZadDom\MichalDzialekLab2_ZadDom\obj\Debug\MichalDzialekLab2_ZadDom.Victory.resources
